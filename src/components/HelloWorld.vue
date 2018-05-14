@@ -1,6 +1,10 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h1>Hello World</h1>
+
+    <h1>https://www.imooc.com/video/14039, 了解一下[视频能看否?]</h1>
+
     <h2>Essential Links</h2>
     <ul>
       <li>
